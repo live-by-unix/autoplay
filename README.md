@@ -56,13 +56,10 @@ autoplay/
 └── .gitignore          # Git ignore rules
 ```
 
-### Building
-
-This extension requires no build process - it's ready to use as-is. Simply load the unpacked extension in Chrome.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD-3-Clause License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -77,4 +74,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Privacy
 
-AutoPlay does not collect, store, or transmit any data. It only operates locally within your browser to enhance your YouTube Shorts viewing experience.
+AutoPlay does not collect, store, or transmit any data. It only operates locally within your browser to enhance your YouTube Shorts viewing experience. 
